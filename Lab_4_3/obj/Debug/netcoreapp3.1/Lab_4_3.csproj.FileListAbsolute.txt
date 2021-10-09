@@ -1,0 +1,14 @@
+C:\Users\Daniil\source\repos\Lab_4_1\Lab_4_3\bin\Debug\netcoreapp3.1\Lab_4_3.exe
+C:\Users\Daniil\source\repos\Lab_4_1\Lab_4_3\bin\Debug\netcoreapp3.1\Lab_4_3.deps.json
+C:\Users\Daniil\source\repos\Lab_4_1\Lab_4_3\bin\Debug\netcoreapp3.1\Lab_4_3.runtimeconfig.json
+C:\Users\Daniil\source\repos\Lab_4_1\Lab_4_3\bin\Debug\netcoreapp3.1\Lab_4_3.runtimeconfig.dev.json
+C:\Users\Daniil\source\repos\Lab_4_1\Lab_4_3\bin\Debug\netcoreapp3.1\Lab_4_3.dll
+C:\Users\Daniil\source\repos\Lab_4_1\Lab_4_3\bin\Debug\netcoreapp3.1\Lab_4_3.pdb
+C:\Users\Daniil\source\repos\Lab_4_1\Lab_4_3\obj\Debug\netcoreapp3.1\Lab_4_3.csproj.AssemblyReference.cache
+C:\Users\Daniil\source\repos\Lab_4_1\Lab_4_3\obj\Debug\netcoreapp3.1\Lab_4_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniil\source\repos\Lab_4_1\Lab_4_3\obj\Debug\netcoreapp3.1\Lab_4_3.AssemblyInfoInputs.cache
+C:\Users\Daniil\source\repos\Lab_4_1\Lab_4_3\obj\Debug\netcoreapp3.1\Lab_4_3.AssemblyInfo.cs
+C:\Users\Daniil\source\repos\Lab_4_1\Lab_4_3\obj\Debug\netcoreapp3.1\Lab_4_3.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\source\repos\Lab_4_1\Lab_4_3\obj\Debug\netcoreapp3.1\Lab_4_3.dll
+C:\Users\Daniil\source\repos\Lab_4_1\Lab_4_3\obj\Debug\netcoreapp3.1\Lab_4_3.pdb
+C:\Users\Daniil\source\repos\Lab_4_1\Lab_4_3\obj\Debug\netcoreapp3.1\Lab_4_3.genruntimeconfig.cache
